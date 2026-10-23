@@ -1,0 +1,11 @@
+# Data never goes in git (public repo). See README for download links.
+data/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Secrets
+.env
